@@ -11,10 +11,10 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <serenity.version>5.0.4</serenity.version>
-        <junit-vintage-engine.version>6.0.1</junit-vintage-engine.version>
-        <junit-platform-suite.version>6.0.1</junit-platform-suite.version>
-        <cucumber-junit-platform-engine.version>7.33.0</cucumber-junit-platform-engine.version>
+        <serenity.version>5.2.2</serenity.version>
+        <junit-vintage-engine.version>6.0.2</junit-vintage-engine.version>
+        <junit-platform-suite.version>6.0.2</junit-platform-suite.version>
+        <cucumber-junit-platform-engine.version>7.34.2</cucumber-junit-platform-engine.version>
         <encoding>UTF-8</encoding>
         <tags></tags>
         <webdriver.base.url></webdriver.base.url>
@@ -94,12 +94,12 @@
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
-            <version>1.2.10</version>
+            <version>1.5.28</version>
         </dependency>
         <dependency>
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
-            <version>3.23.1</version>
+            <version>3.27.7</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
