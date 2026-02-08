@@ -227,6 +227,10 @@ They reports are also integrated into the Maven build process: the following cod
             </plugin>
 ```
 
+### Reports contain JUnit and Cucumber Test Results
+<img width="1499" height="258" alt="image" src="https://github.com/user-attachments/assets/17ae0b72-ca40-4b11-8914-9266252e02c3" />
+
+
 ## Simplified WebDriver configuration and other Serenity extras
 The sample projects both use some Serenity features which make configuring the tests easier. In particular, Serenity uses the `serenity.conf` file in the `src/test/resources` directory to configure test execution options.  
 ### Webdriver configuration
